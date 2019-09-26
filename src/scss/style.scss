@@ -1,0 +1,13 @@
+@import 'fonts.scss';
+@import 'vars.scss';
+
+// Main Styles
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+h1 {
+	color: $primary-color;
+}
